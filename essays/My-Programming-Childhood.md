@@ -24,4 +24,4 @@ The one aspect of this class that seems to really stand out to me is the creatio
 
 Looking past the laughter and tears that I’ve experienced in this class thus far, I look forward to the challenges and information that have yet to present themselves.  Overall this has been an enjoyable enterprise.  The conveniences of JavaScript, the challenges of WODs, and the preparation for my future are a welcomed part of my programming evolution.  I may consider myself to be a programming toddler right now, but I am confident that this class will provide the tools I need to succeed.  I can’t wait to grow up to be a programmer!
 
-
+<img class="ui medium left floated image" src="../images/Graduation.png">
