@@ -14,6 +14,8 @@ I came into this semester with wide eyes and excitement, reminiscent of that ant
 
 To my surprise, not only were the training modules easy to absorb, they were a lot of fun too!  The JavaScript language itself was digestible and enjoyable.  I felt that someone overheard my gripes on the little nuances about the previus languages and created JavaScript to make amends.  I love the easiness of not having to declare your variables as being an integer or a string.  You can also make an array that holds strings and integers?  "Sure!  you're welcome and thank you for shopping at JavaScript."
 
+<img class="ui medium left floated image" src="../images/Declare.jpg">
+
 As far as this software engineering class goes, I am really enjoying myself.  There are a lot of tasks to accomplish but these tasks tantalize what I enjoy doing anyway.  It can be comparable to telling a surfer that he has to catch at least twenty waves within an hour.  I think that the composition of this class is brilliant.  I also feel that it is geared for practical use versus a strict regiment of technical knowledge.  It is a tricky position to be able to find a balance between instruction and practical use, and I think this class found that perfect dynamic.  
 
 Not everything can be fun and games.  This class does offer some challenges outside of a tight schedule.  One such challenge is the Workout Of the Day (WOD).  Coming from an unconfident background in programming, these WODs have tested my abilities.  Having to code specific programs within a set amount of time tested my anxieties at first, but I really feel that this will boost my confidence as I fall into a good rhythm.  My goal is to be proficient and confident, and I believe that this will definitely get me where I need to be.
