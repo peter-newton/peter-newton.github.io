@@ -9,9 +9,9 @@ labels:
   - Beginning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
-    I came into this semester with wide eyes and excitement, reminiscent of that anticipation you got as a child when Christmas was three weeks away.  Feeling like a toddler that grew out of his programming diapers, I was eager to learn a new computer language.  Upon discovering that it was offered as a training module with a little over a week to learn, I said to myself, “Wait a minute…Java, C, and C++ were each taught over a semester.  A week?”  A little bit of a panic welled up in my throat, but my inner motivational beast that lay dormant from the Christmas vacation, perked its ears up and I knew it was time for business.  
+
+    I came into this semester with wide eyes and excitement, reminiscent of that anticipation you got as a child when Christmas was three weeks away.  Feeling like a toddler that grew out of his programming diapers, I was eager to learn a new computer language. Upon discovering that it was offered as a training module with a little over a week to learn, I said to myself, “Wait a minute…Java, C, and C++ were each taught over a semester.  A week?”  A little bit of a panic welled up in my throat, but my inner motivational beast that lay dormant from the Christmas vacation, perked its ears up and I knew it was time for business.  
     
      To my surprise, not only were the training modules easy to absorb, they were a lot of fun too!  The JavaScript language itself was digestible and enjoyable.  I felt that someone overheard my gripes on the little nuances about the previous languages and created JavaScript to make amends.  I love the easiness of not having to declare your variables as being an integer or a string.  You can also make an array without declaring what type of array it is.  That’s amazing!  How about having an array within an array that holds strings and integers?  “Sure!  You’re welcome and thank you for shopping at JavaScript.” 
      
