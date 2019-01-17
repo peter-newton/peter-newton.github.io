@@ -10,11 +10,14 @@ labels:
 ---
 <img class="ui medium left floated image" src="../images/childhood.jpg">
 
+
 I came into this semester with wide eyes and excitement, reminiscent of that anticipation you got as a child when Christmas was three weeks away.  Feeling like a toddler that grew out of his programming diapers, I was eager to learn a new computer language.  Upon discovering that it was offered as a training module with a little over a week to learn, I said to myself, "Wait a minute...Java, C, and C++ were each taught over a semester.   A week?"  A little bit of panic welled up in my throat, but my inner motivational beast that lay dormant from the Christmas vacation, perked its ears up and I knew it was time for business.
 
 To my surprise, not only were the training modules easy to absorb, they were a lot of fun too!  The JavaScript language itself was digestible and enjoyable.  I felt that someone overheard my gripes on the little nuances about the previus languages and created JavaScript to make amends.  I love the easiness of not having to declare your variables as being an integer or a string.  You can also make an array that holds strings and integers?  "Sure!  you're welcome and thank you for shopping at JavaScript."
 
 <img class="ui medium left floated image" src="../images/Declare.jpg">
+
+
 
 As far as this software engineering class goes, I am really enjoying myself.  There are a lot of tasks to accomplish but these tasks tantalize what I enjoy doing anyway.  It can be comparable to telling a surfer that he has to catch at least twenty waves within an hour.  I think that the composition of this class is brilliant.  I also feel that it is geared for practical use versus a strict regiment of technical knowledge.  It is a tricky position to be able to find a balance between instruction and practical use, and I think this class found that perfect dynamic.  
 
