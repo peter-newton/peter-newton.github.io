@@ -52,9 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -62,47 +60,41 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": "3.9",
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Department of Defense",
+      "position": "Dedicated Crew Chief",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2009-01-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead coordinator for aircraft maintenance on C-17 Aircraft",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, troubleshoot, assemble maintenance team in the repair, functional check, and launch of C-17 aircraft and aircraft subsystems."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "United States Air Force",
+      "position": "Aircraft Electrician",
+      "website": "",
+      "startDate": "1996-06-05",
+      "endDate": "2007-08-15",
+      "summary": "Shop lead for electrical backshop",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
+        "Troubleshoot electrical systems and repair of C-5, C-17, C-141, C-130, F-15, and F-16 systems",
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
