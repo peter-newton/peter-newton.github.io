@@ -8,15 +8,14 @@ labels:
   - Questions
   - Etiquette
 ---
-<img class="ui medium left floated image" src="../images/childhood.jpg">
 
 I found this topic to be both fascinating and relatable.  There really must be an issue with asking the wrong questions if one needs to outline a “dos and don’ts” on social interaction.  It does make sense to see the ramification of effective questions versus ineffective questioning.  After searching through StackOverflow on topics of discussion, I managed to find some examples that exemplified this issue.
 
 Scrolling through the many queries on StackOverflow, I got the sense that this site really is an open forum for a wide assortment of programming issues.  One such programmer had an issue with cropping his “PlayerView”.  What impressed me about his post is that he structured his question with headers that read “Background”, “The problem”, “What I’ve tried”, and “The questions”.  
 
-<img class="ui medium left floated image" src="../images/Right.PNG">
-
 I felt that this post personified the goal of what Eric Steven Raymond and Rick Moen wrote in “How To Ask Questions The Smart Way”.  The way he structured his question told me that he was precise, analytical, thorough, and genuinely stumped in his troubleshooting process.  The response that he received produced an alternative strategy to achieve what he desired with a list of code to assist with the resolution.
+
+<img class="ui medium left floated image" src="../images/Right.PNG">
 
 Alternatively, I found a humorous post which seemed to fit the profile of how not to ask a question.  The programmer provided a disclaimer stating that he had already “STFW” and couldn’t find a solution to his problem.  Needless to say, that by presenting his disclaimer in such a vulgar way, it produced no results other than sarcasm.  The comments offered no help or sympathy for the issue at hand, and it appears to coincide with the method that the programmer chose to present his question.
 
