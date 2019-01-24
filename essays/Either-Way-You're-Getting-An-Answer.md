@@ -31,7 +31,7 @@ Alternatively, I found a humorous post which seemed to fit the profile of how no
 
 Research, clarity, and “netiquette” seems like the standard that resonates with asking good questions.  These techniques will ensure the difference from your questions being sufficiently answered, to being an anecdote.  By observing the dichotomy of questions, I have a better understanding of the importance of asking the right questions.
 
-
+<img class="ui medium right floated image" src="../images/ChrisRock.jpg">
 
 <blockquote cite="http://www.oprah.com/spirit/chris-rock-interview-chris-rocks-best-advice#ixzz5dUrG1EQH
 ">
@@ -42,5 +42,5 @@ Research, clarity, and “netiquette” seems like the standard that resonates w
 </footer>
 
 
-<\n\nimg class="ui medium right floated image" src="../images/ChrisRock.jpg">
+
 
