@@ -10,8 +10,7 @@ labels:
 ---
 <img class="ui medium left floated image" src="../images/childhood.jpg">
 
-I found this topic to be both fascinating and relatable.  There really must be an issue with asking the wrong questions if one needs to outline a “dos and don’ts” on social interaction.  
-It does make sense to see the ramification of effective questions versus ineffective questioning.  After searching through StackOverflow on topics of discussion, I managed to find some examples that exemplified this issue.
+I found this topic to be both fascinating and relatable.  There really must be an issue with asking the wrong questions if one needs to outline a “dos and don’ts” on social interaction.  It does make sense to see the ramification of effective questions versus ineffective questioning.  After searching through StackOverflow on topics of discussion, I managed to find some examples that exemplified this issue.
 
 Scrolling through the many queries on StackOverflow, I got the sense that this site really is an open forum for a wide assortment of programming issues.  
 One such programmer had an issue with cropping his “PlayerView”.  What impressed me about his post is that he structured his question with headers that read “Background”, “The problem”, “What I’ve tried”, and “The questions”.  
