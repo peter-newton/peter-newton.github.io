@@ -9,7 +9,7 @@ labels:
   - Etiquette
 ---
 
-<img class="ui medium left floated image" src="../images/Question.PNG">
+<img class="ui medium left floated image" src="../images/Question.jpg">
 
 I found this topic to be both fascinating and relatable.  There really must be an issue with asking the wrong questions if one needs to outline a “dos and don’ts” on social interaction.  It does make sense to see the ramification of effective questions versus ineffective questioning.  After searching through StackOverflow on topics of discussion, I managed to find some examples that exemplified this issue.
 
