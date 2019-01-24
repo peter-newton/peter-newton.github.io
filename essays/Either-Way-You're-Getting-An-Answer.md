@@ -42,6 +42,5 @@ Research, clarity, and “netiquette” seems like the standard that resonates w
 </footer>
 
 
-<div>
-<img class="ui medium right floated image" src="../images/ChrisRock.jpg">
- </div>
+</n/nimg class="ui medium right floated image" src="../images/ChrisRock.jpg">
+
