@@ -15,6 +15,7 @@ It does make sense to see the ramification of effective questions versus ineffec
 
 Scrolling through the many queries on StackOverflow, I got the sense that this site really is an open forum for a wide assortment of programming issues.  
 One such programmer had an issue with cropping his “PlayerView”.  What impressed me about his post is that he structured his question with headers that read “Background”, “The problem”, “What I’ve tried”, and “The questions”.  
+
 I felt that this post personified the goal of what Eric Steven Raymond and Rick Moen wrote in “How To Ask Questions The Smart Way”.  
 The way he structured his question told me that he was precise, analytical, thorough, and genuinely stumped in his troubleshooting process.  The response that he received produced an alternative strategy to achieve what he desired with a list of code to assist with the resolution.
 
@@ -30,5 +31,5 @@ By observing the dichotomy of questions, I have a better understanding of the im
     If you want help, help yourself—people like to see that. “</p>
 </blockquote>
 
-<cite>– Chris Rock</cite>
+<footer>– Chris Rock</footer>
 
