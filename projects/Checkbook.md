@@ -32,8 +32,3 @@ Here is some code that illustrates how I displayed the found check:
       currentNode->amount, currentNode->description);
 }
 ```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
