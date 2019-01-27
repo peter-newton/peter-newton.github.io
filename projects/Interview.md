@@ -17,7 +17,7 @@ summary: An interview on modern work performance during Pearl Harbor attack reme
 
 On the 7th of December 2017, Joint Base Pearl Harbor Hickam held ceremonies to honor the 76th anniversary of the lives lost during the Pearl Harbor attack.  These ceremonies were documented by the Hawaii News Now journalists as part of their Sunrise program.  During the program segment, Hawaii News Now reported on the history of the attacks on the military airfields throughout Oahu, as well as the infamous attack on the naval ships in Pearl Harbor.  The segment connected the life of that past and transitioned the activities of the present which provided a glimpse of the future.
 
- <img class="ui medium right floated rounded image" src="../images/20171207_054843.jpg">
+ <img class="ui large right floated rounded image" src="../images/20171207_054843.jpg">
  
 I was chosen to represent our organization to exemplify the current activities of Hickam.  Howard Dicus of Hawaii News Now interviewed Master Sergeant Ryan Smith and myself on the daily operations and challenges that we face while maintaining aircraft at the 15th Aircraft Maintenance Squadron.  None of the questions were practiced or planned and the segment was shot live at five in the morning.  Facing the pressures of an impromptu speech, the fatigue of an early morning interview, and the realization that the entire state could view or judge my input during a nationally sensitive event, I learned how to keep a calm head and organize my thoughts on the fly. 
 
