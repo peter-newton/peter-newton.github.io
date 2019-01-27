@@ -20,7 +20,7 @@ One of the projects that I took on during my ICS 212 class, was to utilize a lin
 Being a novice programmer, I found difficulty in translating what I wanted my pseudocode to do in C.  I approached the problem with one segment at a time and ensured those segments worked.  The function calls gave me the most resistance, but through persistence and careful review of my class notes, I was proud of the product output.  This project provided a deeper understanding of programming in C as well as a practical application of linked lists.
 
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how I displayed the found check:
 
 ```js
 
