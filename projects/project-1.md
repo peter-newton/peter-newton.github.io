@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/LinkedListIcon.PNG
 title: Checkbook
 permalink: projects/checkbook
 # All dates must be YYYY-MM-DD format!
