@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/Icon.jpg
 title: Lightning Damage
 permalink: projects/lightning damage
 # All dates must be YYYY-MM-DD format!
@@ -14,10 +14,9 @@ summary: An experience in teamwork while investigating lightning damage on an ai
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/50.jpg">
+  <img class="ui image" src="../images/damage 1.jpg">
+  <img class="ui image" src="../images/damage2.jpg">
 </div>
 
 
