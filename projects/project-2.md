@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Interview Icon.jpg
 title: Interview
 permalink: projects/interview
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: An interview on work modern performance during Pearl Harbor attack rememberance.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium left floated rounded image" src="../images/20171207_054821.jpg">
 
 On the 7th of December 2017, Joint Base Pearl Harbor Hickam held ceremonies to honor the 76th anniversary of the lives lost during the Pearl Harbor attack.  These ceremonies were documented by the Hawaii News Now journalists as part of their Sunrise program.  During the program segment, Hawaii News Now reported on the history of the attacks on the military airfields throughout Oahu, as well as the infamous attack on the naval ships in Pearl Harbor.  The segment connected the life of that past and transitioned the activities of the present which provided a glimpse of the future.
 
@@ -22,5 +22,6 @@ I was chosen to represent our organization to exemplify the current activities o
 
 The moment I had an opportunity to reflect on everything which transpired from that day, I realized a new-found appreciation for the sacrifice that the military members gave during the attack.  I also developed an appreciation for the production of news segments and the unscripted professionalism that Howard Dicus and the rest of the Hawaii News Now crew exuded while performing their jobs.
 
+ <img class="ui medium right floated rounded image" src="../images/20171207_054843.jpg">
  
  You can view the interview at [Hawaii News Now](http://www.hawaiinewsnow.com/clip/13964389/sunrise-on-the-road-joint-base-pearl-harbor-hickam-aircraft-maintenance/)
