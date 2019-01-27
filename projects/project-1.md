@@ -13,7 +13,7 @@ labels:
 summary: I learned about using linked lists and created a program to prove it.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/checkbook.jpg">
 
 One of the projects that I took on during my ICS 212 class, was to utilize a linked list and writing the code in C.  Linked lists are data structures that have objects (nodes) that “link” together through pointers that reference to the next object.  Part of this project was to write a program that would create a check, delete a check, display a specific check, and display an entire checkbook. Some of the added variables to make it more interesting, was to specify functions to search by check number, amount formatting to two decimal places, and to display the proposed check input before adding it to the check book.
 
