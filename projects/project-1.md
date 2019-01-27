@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Checkbook
+permalink: projects/checkbook
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-26
 labels:
