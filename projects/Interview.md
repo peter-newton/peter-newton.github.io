@@ -11,7 +11,7 @@ labels:
   - Joint Base Pearl Harbor Hickam
   - History
   - Professionalism
-summary: An interview on work modern performance during Pearl Harbor attack rememberance.
+summary: An interview on modern work performance during Pearl Harbor attack rememberance.
 ---
 
 
