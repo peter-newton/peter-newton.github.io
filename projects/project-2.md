@@ -23,4 +23,4 @@ I was chosen to represent our organization to exemplify the current activities o
 The moment I had an opportunity to reflect on everything which transpired from that day, I realized a new-found appreciation for the sacrifice that the military members gave during the attack.  I also developed an appreciation for the production of news segments and the unscripted professionalism that Howard Dicus and the rest of the Hawaii News Now crew exuded while performing their jobs.
 
  
- [Source:](http://www.hawaiinewsnow.com/clip/13964389/sunrise-on-the-road-joint-base-pearl-harbor-hickam-aircraft-maintenance/)
+ You can view the interview at [Hawaii News Now](http://www.hawaiinewsnow.com/clip/13964389/sunrise-on-the-road-joint-base-pearl-harbor-hickam-aircraft-maintenance/)
