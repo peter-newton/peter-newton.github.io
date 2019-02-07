@@ -11,7 +11,7 @@ labels:
   - Work Ethic
 ---
 
-<img class="ui medium left floated image" src="../images/Name.jpg">
+<img class="ui small left floated image" src="../images/Name.jpg">
 Through my experience in the Air Force, I have shaped and refined my work ethic based on my observations.  The one thing that I can distinguish myself from the talented masses, is my name.   What I mean by that is how my name, and everything I put my name on, is a reflection of me.  Whatever I do in life, I try to be conscious of what my name should mean to other people.  My aim is for excellence, and I want the idea of my name to be associated with that.  This is why I endorse the implementation of ESLint with IntelliJ.
 
 I can see the importance of uniformity and standards in writing code.  These attributes help define excellence by creating an environment that is easy to follow and understand.  The implementation of ESLint gives you a confirmation of your “p’s and q’s”.  Initially, I had my reservations of this process since I wanted my code to reflect my style.  
