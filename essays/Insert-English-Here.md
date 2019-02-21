@@ -14,13 +14,13 @@ Programming can be difficult and frustrating.  The main contributor to the frust
 
 The first noticeable instance when utilizing semantic UI is the ease and flow of the language.  The commands to define classes and execute commands appear to be the most similar to the way we speak English.  It can be compared to speaking English with having an html accent. 
 
-<img class="ui centered medium floated image" src="../images/English.jpg">
+<img class="ui medium right floated image" src="../images/English.jpg">
 
 Instead of setting parameters of an object and associating variables to it, we can actually use adjectives to describe a “big red button” similar to the phrase “a quick brown fox”, and semantic UI knows exactly what you want.  As adjectives modify a noun, this integration can modify your object which I think is close to genius.
      
 In addition to having an intuitive language, I found that defining classes were just as relatable.  For instance, if you were to define a class of buttons, then you can declare them as such.  The pluralization of classes emulates the syntax of our natural order of speech and this adds to the convenience that semantic UI provides.  
 
-<img class="ui medium left floated image" src="../images/buttons.PNG">
+<img class="ui centered medium floated image" src="../images/buttons.PNG">
 
 Speaking of convenience, the application of themes is another wonderful benefit.  They have a bountiful collection of icons, buttons, and brands that make customization both recognizable and relatable.  Having this library, coupled with the semantic vernacular, you can easily create icon links as easy as requesting a “blue facebook icon”.
 
