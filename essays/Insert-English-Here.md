@@ -20,7 +20,7 @@ Instead of setting parameters of an object and associating variables to it, we c
      
 In addition to having an intuitive language, I found that defining classes were just as relatable.  For instance, if you were to define a class of buttons, then you can declare them as such.  The pluralization of classes emulates the syntax of our natural order of speech and this adds to the convenience that semantic UI provides.  
 
-<img class="ui small left floated image" src="../images/buttons.PNG">
+<img class="ui medium left floated image" src="../images/buttons.PNG">
 
 Speaking of convenience, the application of themes is another wonderful benefit.  They have a bountiful collection of icons, buttons, and brands that make customization both recognizable and relatable.  Having this library, coupled with the semantic vernacular, you can easily create icon links as easy as requesting a “blue facebook icon”.
 
