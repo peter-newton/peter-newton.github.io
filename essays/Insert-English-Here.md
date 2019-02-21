@@ -20,9 +20,10 @@ Instead of setting parameters of an object and associating variables to it, we c
      
 In addition to having an intuitive language, I found that defining classes were just as relatable.  For instance, if you were to define a class of buttons, then you can declare them as such.  The pluralization of classes emulates the syntax of our natural order of speech and this adds to the convenience that semantic UI provides.  
 
-<img class="ui centered medium floated image" src="../images/buttons.PNG">
+<img class="ui medium left floated image" src="../images/buttons.PNG">
 
 Speaking of convenience, the application of themes is another wonderful benefit.  They have a bountiful collection of icons, buttons, and brands that make customization both recognizable and relatable.  Having this library, coupled with the semantic vernacular, you can easily create icon links as easy as requesting a “blue facebook icon”.
+
 
 Issues that may invoke provocation would be the fact that you would have to learn yet another language.  Although semantic emulates the English syntax, there are structural nuances that require you to be familiar with the language.  It isn’t too far of a leap if you are comfortable with HTML, but there are commands that augment the HTML language.  Another caveat would be the installation process that enable you to use semantic UI.  You must ensure that you have jQuery and Gulp installed in order to use semantic.  It sounds trivial, but it is a process that may be discouraging if you are seeking a “convenient” way to create a user interface.
 
