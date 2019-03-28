@@ -85,12 +85,11 @@ W20190327-20:16:14.620(-10)? (STDERR) in the root directory of your application.
 
 => App running at: http://localhost:3000/
    Type Control-C twice to stop.
-
 </code>
 
-<p><strong>Note regarding bcrypt warning.</strong> You will also get the following message when you run this application:</p>
+<p>Note regarding bcrypt warning. You will also get the following message when you run this application:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Note: you are using a pure-JavaScript implementation of bcrypt.
+<code>Note: you are using a pure-JavaScript implementation of bcrypt.
 While this implementation will work correctly, it is known to be
 approximately three times slower than the native implementation.
 In order to use the native implementation instead, run
@@ -98,7 +97,7 @@ In order to use the native implementation instead, run
   meteor npm install --save bcrypt
 
 in the root directory of your application.
-</code></pre></div></div>
+</code>
 
 <p>On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.</p>
 
