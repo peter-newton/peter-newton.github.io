@@ -101,22 +101,17 @@ in the root directory of your application.
 
 <p>On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.</p>
 
-<p>If all goes well, the template application will appear at <a href="http://localhost:3000">http://localhost:3000</a>.  You can login using the credentials in <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a>, or else register a new account.</p>
+<p>When the application is running without errors, open a web browser and type in this web address: <a href="http://localhost:3000">http://localhost:3000</a>.  You can login using the default accounts "john@foo.com" or the admin account "admin@foo.com".  Both accounts will have a default password of "changeme".  If you don't want to use the default information then register a new account.</p>
 
-<p>Lastly, you can run ESLint over the code in the imports/ directory with:</p>
+<h2>User Interface Walkthrough</h2>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>meteor npm run lint
-</code></pre></div></div>
+<h4>Landing Page</h4>
 
-<h2 id="user-interface-walkthrough">User Interface Walkthrough</h2>
-
-<h4 id="landing-page">Landing Page</h4>
-
-<p>When you first bring up the application, you will see the landing page that provides a brief introduction to the capabilities of Digits:</p>
+<p>This is the page that you will first encounter when opening up the application.  It contains information on the capabilities that this application can do.</p>
 
 <p><img src="doc/landing.png" /></p>
 
-<h4 id="register">Register</h4>
+<h4>Register</h4>
 
 <p>If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:</p>
 
