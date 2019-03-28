@@ -58,42 +58,35 @@
 <code>$ meteor npm install
 </code>
 
-<p>Once the libraries are installed, you can run the application by invoking:</p>
+<p>When the libraries are installed, run the application in the command prompt with this.</p>
+<code>$ meteor npm run start
+</code>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ meteor npm run start
-</code></pre></div></div>
+<p>While the program is running, you will see a stream of infomation that will look like similar to this.</p>
 
-<p>The first time you run the app, it will create some default users and data. Here is the output:</p>
+<code>meteor npm run start
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>meteor npm run start
+> meteor-application-template-react@ start C:\Users\peace\Documents\github\PeterNewton\digits\app
+> meteor --no-release-check --settings ../config/settings.development.json
 
-&gt; meteor-application-template-react@ start /Users/philipjohnson/github/philipmjohnson/digits/app
-&gt; meteor --no-release-check --settings ../config/settings.development.json
+[[[[[ C:\Users\peace\Documents\github\PeterNewton\digits\app ]]]]]
 
-[[[[[ ~/github/philipmjohnson/digits/app ]]]]]
+=> Started proxy.
+=> Started MongoDB.
+W20190327-20:16:14.366(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20190327-20:16:14.614(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20190327-20:16:14.615(-10)? (STDERR) approximately three times slower than the native implementation.
+W20190327-20:16:14.617(-10)? (STDERR) In order to use the native implementation instead, run
+W20190327-20:16:14.618(-10)? (STDERR)
+W20190327-20:16:14.619(-10)? (STDERR)   meteor npm install --save bcrypt
+W20190327-20:16:14.619(-10)? (STDERR)
+W20190327-20:16:14.620(-10)? (STDERR) in the root directory of your application.
+=> Started your app.
 
-=&gt; Started proxy.                             
-=&gt; Started MongoDB.                           
-I20180305-18:06:02.764(-10)? Creating the default user(s)
-I20180305-18:06:02.803(-10)?   Creating user admin@foo.com.
-I20180305-18:06:02.803(-10)?   Creating user john@foo.com.
-I20180305-18:06:02.804(-10)? Creating default contacts.
-I20180305-18:06:02.804(-10)?   Adding: Johnson (john@foo.com)
-I20180305-18:06:02.804(-10)?   Adding: Casanova (john@foo.com)
-I20180305-18:06:02.804(-10)?   Adding: Binsted (admin@foo.com)
-=&gt; Started your app.
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
 
-=&gt; App running at: http://localhost:3000/
-W20180305-18:06:02.805(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-W20180305-18:06:02.805(-10)? (STDERR) While this implementation will work correctly, it is known to be
-W20180305-18:06:02.806(-10)? (STDERR) approximately three times slower than the native implementation.
-W20180305-18:06:02.806(-10)? (STDERR) In order to use the native implementation instead, run
-W20180305-18:06:02.806(-10)? (STDERR) 
-W20180305-18:06:02.806(-10)? (STDERR)   meteor npm install --save bcrypt
-W20180305-18:06:02.806(-10)? (STDERR) 
-W20180305-18:06:02.806(-10)? (STDERR) in the root directory of your application.
-
-</code></pre></div></div>
+</code>
 
 <p><strong>Note regarding bcrypt warning.</strong> You will also get the following message when you run this application:</p>
 
