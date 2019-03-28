@@ -39,24 +39,24 @@
         <section id="main_content">
           <p><img src="doc/landing.png" /></p>
 
-<p>Digits is an application that allows users to:</p>
+<p>Digits is an application that will</p>
 
 <ul>
-  <li>Register an account.</li>
-  <li>Create and manage a set of contacts.</li>
-  <li>Add a set of timestamped notes regarding their interactions with each contact.</li>
+  <li>Allow you to create an account.</li>
+  <li>Create contacts.</li>
+  <li>Create notes for your contacts.</li>
 </ul>
 
-<h3 id="installation">Installation</h3>
+<h3>Installation</h3>
 
-<p>First, <a href="https://www.meteor.com/install">install Meteor</a>.</p>
+<p>Install Meteor <a href="https://www.meteor.com/install">here</a>.</p>
 
-<p>Second, <a href="https://github.com/philipmjohnson/digits">download a copy of Digits</a>. Note that Digits is a private repo and so you will need to request permission from the author to gain access to the repo.</p>
+<p>Then, <a href="https://github.com/peter-newton/digits">download a copy of Digits</a>. Note that Digits is a private repo and so you will need to request permission from the author to gain access to the repo.</p>
 
-<p>Third, cd into the app directory install the required libraries with:</p>
+<p>Once that is finished, open your command prompt and cd into the app directory and install the required libraries with:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ meteor npm install
-</code></pre></div></div>
+<code>$ meteor npm install
+</code>
 
 <p>Once the libraries are installed, you can run the application by invoking:</p>
 
