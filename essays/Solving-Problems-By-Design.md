@@ -6,7 +6,8 @@ title: Solving Problems By Design
 date: 2019-04-24
 labels:
   - Software Engineering
-  - Beginning
+  - Design Patterns
+  - Problem Solving
 ---
 <img class="ui medium left floated image" src="../images/evolution.jpg">
 
@@ -18,6 +19,6 @@ An example of such an issue can be observed when I’m writing code to perform a
 
 In a recent project, I incorporated a process for developing a web application into several functioning parts.  This was the best approach to measure and manipulate the data received from the user.  Between our team of developers, we would split the functionalities which catered to our individual strengths.  For instance, our member that demonstrated strengths in database control gave the model of where the information is used.  Another individual felt comfortable in their abilities in user interface which allowed the user to view the data and request additional data.  We also had another individual control how this information is processed between the database and the user interface.  This coordination is very complicated, but very efficient because it plays on the strengths of the individual team members.
 
-By working as a team or handling reoccurring problems alone, there are many different ways to take on a project or troubleshoot dilemmas in coding.  Most of what I’ve observed is a combination of what I’ve learned, as well as what I observe.  I may be a novice in the overall scheme of programming, but I am starting to see the patterns that reveal the best resolution to the programming process.
+By working as a team or handling reoccurring problems alone, there are many different ways to take on a project or troubleshoot dilemmas in coding.  Most of what I’ve discovered is a combination of what I’ve learned, as well as what I observe.  I may be a novice in the overall scheme of programming, but I am starting to see the patterns that reveal the best resolution to the programming process.
 
 <img class="ui medium centered image" src="../images/design.png">
