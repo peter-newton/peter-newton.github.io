@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Beginning
 ---
-<img class="ui medium left image" src="../images/evolution.jpg">
+<img class="ui medium left floated image" src="../images/evolution.jpg">
 
 During my code writing evolution, I have encountered a plethora of functional issues that have left me confused and frustrated in my inability to code effectively.  As much as these instances have embittered me, the reward of having that “eureka” moment and watching my code perform as intended would wash away the torment, and that pain becomes a memory event.  While riding this emotional roller coaster, I have noticed certain issues that seem to echo throughout my experiences.  I’ve found that the longer I’ve tried to make an issue work, the faster I recall a solution for that particular dilemma in future encounters.  Yes, you can label this as a corollary of learning but I want to emphasize that the solution to such problems are consistently being reiterated.  On the surface, I could inflate my ego with the idea of being an evolved “coding wizard”, but if you peel back the issue, you can see how cyclical they can be and the resolution can be refashioned.
 
@@ -20,4 +20,4 @@ In a recent project, I incorporated a process for developing a web application i
 
 By working as a team or handling reoccurring problems alone, there are many different ways to take on a project or troubleshoot dilemmas in coding.  Most of what I’ve observed is a combination of what I’ve learned, as well as what I observe.  I may be a novice in the overall scheme of programming, but I am starting to see the patterns that reveal the best resolution to the programming process.
 
-<img class="ui medium centered floated image" src="../images/design.png">
+<img class="ui medium centered image" src="../images/design.png">
