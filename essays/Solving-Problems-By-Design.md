@@ -20,4 +20,4 @@ In a recent project, I incorporated a process for developing a web application i
 
 By working as a team or handling reoccurring problems alone, there are many different ways to take on a project or troubleshoot dilemmas in coding.  Most of what I’ve observed is a combination of what I’ve learned, as well as what I observe.  I may be a novice in the overall scheme of programming, but I am starting to see the patterns that reveal the best resolution to the programming process.
 
-<img class="ui medium middle aligned floated image" src="../images/design.png">
+<img class="ui medium centered floated image" src="../images/design.png">
