@@ -13,7 +13,8 @@ labels:
   - Meteor
 summary: Collaboration of 5 developers in creating a web application that provides a service to businesses and students.
 ---
-
+# Overview
+During the spring semester of 2019, I collaborated with 4 other developers to create a web application which utilizes the JavaScript web framework, Meteor.  With this application being written using Node.js, we utilized IntlliJ as our editor, MongoDB to store our database and ESlint as our quality control.  To help manage our project, we utilized Github which is an excellent tool for source code management.   The project took about a month to put together and the majority of our communication took place on Slack which is a public messaging application.
 
 On the 7th of December 2017, Joint Base Pearl Harbor Hickam held ceremonies to honor the 76th anniversary of the lives lost during the Pearl Harbor attack.  These ceremonies were documented by the Hawaii News Now journalists as part of their Sunrise program.  During the program segment, Hawaii News Now reported on the history of the attacks on the military airfields throughout Oahu, as well as the infamous attack on the naval ships in Pearl Harbor.  The segment connected the life of that past and transitioned the activities of the present which provided a glimpse of the future.
 
