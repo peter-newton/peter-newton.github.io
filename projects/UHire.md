@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Interview Icon.jpg
+image: images/Logo.jpg
 title: UHire
 permalink: projects/interview
 # All dates must be YYYY-MM-DD format!
