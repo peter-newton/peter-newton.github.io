@@ -17,10 +17,10 @@ summary: Collaboration of 5 developers in creating a web application that provid
 During the spring semester of 2019, I collaborated with 4 other student developers to create a web application which utilizes the JavaScript web framework, Meteor.  With this application being written using Node.js, we applied IntlliJ as our editor, MongoDB to store our database and ESlint as our quality control.  To help manage our project, we appropriated Github, which is an excellent tool for source code management.   The project took about a month to put together and the majority of our communication took place on Slack which is a public messaging application.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/LandingPage.PNG">
+  <img class="ui image" src="../images/StudentHome.png">
+  <img class="ui image" src="../images/FinalCompanyHome.png">
+  <img class="ui image" src="../images/CompanySearch.png">
 </div>
  
  # Objective
