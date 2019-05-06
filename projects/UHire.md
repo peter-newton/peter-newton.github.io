@@ -23,7 +23,7 @@ During the spring semester of 2019, I collaborated with 4 other student develope
   <img class="ui image" src="../images/CompanySearch.png">
 </div>
  
- # Objective
+# Objective
 The premise behind the application was to provide a service to students and employers that helped matched interests, skills, and location desires.  Students and companies build profiles that are searchable and selectable depending on companies creating positions to fill and students applying for said positions.  Building the application was a lot of fun.  I initially set up the backend design with user collections and permissions and as time progressed, I moved to front-end user interface design.
  
 # Experience
