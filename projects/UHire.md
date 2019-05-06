@@ -14,15 +14,13 @@ labels:
 summary: Collaboration of 5 developers in creating a web application that provides a service to businesses and students.
 ---
 # Overview
-During the spring semester of 2019, I collaborated with 4 other developers to create a web application which utilizes the JavaScript web framework, Meteor.  With this application being written using Node.js, we utilized IntlliJ as our editor, MongoDB to store our database and ESlint as our quality control.  To help manage our project, we utilized Github which is an excellent tool for source code management.   The project took about a month to put together and the majority of our communication took place on Slack which is a public messaging application.
-
-On the 7th of December 2017, Joint Base Pearl Harbor Hickam held ceremonies to honor the 76th anniversary of the lives lost during the Pearl Harbor attack.  These ceremonies were documented by the Hawaii News Now journalists as part of their Sunrise program.  During the program segment, Hawaii News Now reported on the history of the attacks on the military airfields throughout Oahu, as well as the infamous attack on the naval ships in Pearl Harbor.  The segment connected the life of that past and transitioned the activities of the present which provided a glimpse of the future.
+During the spring semester of 2019, I collaborated with 4 other student developers to create a web application which utilizes the JavaScript web framework, Meteor.  With this application being written using Node.js, we applied IntlliJ as our editor, MongoDB to store our database and ESlint as our quality control.  To help manage our project, we appropriated Github, which is an excellent tool for source code management.   The project took about a month to put together and the majority of our communication took place on Slack which is a public messaging application.
 
  <img class="ui large right floated rounded image" src="../images/20171207_054843.jpg">
  
-I was chosen to represent our organization to exemplify the current activities of Hickam.  Howard Dicus of Hawaii News Now, interviewed Master Sergeant Ryan Smith and myself on the daily operations and challenges that we face while maintaining aircraft at the 15th Aircraft Maintenance Squadron.  None of the questions were practiced or planned and the segment was shot live at five in the morning.  Facing the pressures of an impromptu speech, the fatigue of an early morning interview, and the realization that the entire state could view or judge my input during a nationally sensitive event, I learned how to keep a calm head and organize my thoughts on the fly. 
-
-The moment I had an opportunity to reflect on everything which transpired from that day, I realized a new-found appreciation for the sacrifice that the military members gave during the attack.  I also developed an appreciation for the production of news segments and the unscripted professionalism that Howard Dicus and the rest of the Hawaii News Now crew exuded while performing their jobs.
-
+ # Objective
+The premise behind the application was to provide a service to students and employers that helped matched interests, skills, and location desires.  Students and companies build profiles that are searchable and selectable depending on companies creating positions to fill and students applying for said positions.  Building the application was a lot of fun.  I initially set up the backend design with user collections and permissions and as time progressed, I moved to front-end user interface design.
  
- You can view the interview at [Hawaii News Now](http://www.hawaiinewsnow.com/clip/13964389/sunrise-on-the-road-joint-base-pearl-harbor-hickam-aircraft-maintenance/)
+# Experience
+The biggest thing that I learned from this experience is the importance of communication and teamwork.  I was fortunate enough to have a good team, but I can see how ineffective communication or time restrictive dependencies could certainly slow down the productive process.  I also learned about JavaScript and the Meteor framework to be both challenging and enjoyable to work with.  These experiences gave me an awareness of all the details that go into creating a web application.  You can view my web application and journey [here](https://github.com/uhire/)
+
