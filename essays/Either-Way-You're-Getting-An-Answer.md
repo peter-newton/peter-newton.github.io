@@ -31,8 +31,8 @@ Research, clarity, and “netiquette” seems like the standard that resonates w
 <blockquote cite="http://www.oprah.com/spirit/chris-rock-interview-chris-rocks-best-advice#ixzz5dUrG1EQH">
     <p>“I used to have horrible cars, because I never had money, so I'd always end up broken down on the highway. When I stood there trying to flag someone down, nobody stopped. But when I pushed my own car, other drivers would get out and push with me.  If you want help, help yourself—people like to see that.“</p>
 </blockquote>
-<footer>
+<footer position="right">
   – Chris Rock
 </footer>
 
-<img class="ui small left floated image" src="../images/ChrisRock.jpg">
+<img class="ui small left centered floated image" src="../images/ChrisRock.jpg">
