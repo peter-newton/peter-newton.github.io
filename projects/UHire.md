@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Logo.jpg
 title: UHire
-permalink: projects/interview
+permalink: projects/uhire
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-04
 labels:
