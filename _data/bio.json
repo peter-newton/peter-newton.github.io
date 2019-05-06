@@ -71,6 +71,14 @@
     }
   ],
   "education": [
+        {
+      "institution": "Leeward Community College",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2013-09-01",
+      "endDate": "2016-05-05",
+      "gpa": "3.8",
+        }
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
