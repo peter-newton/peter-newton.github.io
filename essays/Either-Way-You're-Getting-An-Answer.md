@@ -35,4 +35,4 @@ Research, clarity, and “netiquette” seems like the standard that resonates w
   – Chris Rock
 </footer>
 
-<img class="ui small left centered floated image" src="../images/ChrisRock.jpg">
+<img class="ui small centered floated image" src="../images/ChrisRock.jpg">
