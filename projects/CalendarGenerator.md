@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CalendarIcon.jpg
+image: images/Calendar Icon.jpg
 title: Calendar Generator
 permalink: projects/calendargenerator
 # All dates must be YYYY-MM-DD format!
