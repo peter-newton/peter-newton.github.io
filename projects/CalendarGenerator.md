@@ -16,7 +16,7 @@ summary: Collaboration of 5 developers in creating a web application that provid
 ## Overview
 Over the Summer of 2019, while attending my software engineering II course at the University of Hawaii at Manoa, my partner and I were given a task to implement a calendar event generator that could be read and implemented on multiple platforms.  This project allowed us to collaborate on the type of language to use, as well as how we would implement the program bounded only with the compliance of RFC 5545 formatting.
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Main.PNG">
+  <img class="ui image" src="../images/Main.png">
   <img class="ui image" src="../images/Calendar.png">
   <img class="ui image" src="../images/RFC 5545.png">
 </div>
