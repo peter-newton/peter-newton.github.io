@@ -11,7 +11,7 @@ labels:
   - Calendar Application
   - Team Project
   - Sprint
-summary: Collaboration of 5 developers in creating a web application that provides a service to businesses and students.
+summary: Group project to create a cross platform calendar event generator.
 ---
 ## Overview
 <img class="ui large right floated rounded image" src="../images/Main.png">
