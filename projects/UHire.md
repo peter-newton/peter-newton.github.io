@@ -23,6 +23,6 @@ The premise behind the application was to provide a service to students and empl
 ## Experience
 The biggest thing that I learned from this experience is the importance of communication and teamwork.  I was fortunate enough to have a good team, but I can see how ineffective communication or time restrictive dependencies could certainly slow down the productive process.  I also learned how JavaScript and the Meteor framework could be both challenging and enjoyable to work with.  These experiences gave me an awareness of all the details that go into creating a web application.  
 <img class="ui fluid rounded image" src="../images/CompanySearch.png">
-<br\>
+<br/>
 You can view my web application and journey [here](https://github.com/uhire/)
 
