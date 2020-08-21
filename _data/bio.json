@@ -54,6 +54,8 @@
         "Java",
         "JavaScript",
         "MongoDB",
+        "SQL",
+        "Android Studio",
         "React",
         "SemanticUI",
         "Meteor"
@@ -65,6 +67,7 @@
       "keywords": [
         "MacOS",
         "Windows",
+        "Ubuntu",
         "IntelliJ Idea",
         "Git/GitHub"
       ]
@@ -135,7 +138,7 @@
     },
     {
       "title": "Civilian of the year",
-      "date": "2011, 2013, 2015, 2016",
+      "date": "2011, 2013, 2015, 2016, 2017, 2018, 2019",
       "awarder": "15th Maintenance Wing",
       "summary": "Competitive award for the aircraft maintenance performance category.  Selected #1 civilian technician in Pacific Air Force organization."
     }
