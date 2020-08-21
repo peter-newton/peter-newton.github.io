@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PMan5.jpg
+image: images/PMan1.JPG
 title: Password Manager
 permalink: projects/password manager
 # All dates must be YYYY-MM-DD format!
