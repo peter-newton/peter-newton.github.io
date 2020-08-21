@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ygm1.jpg
 title: You've Got Mail!
-permalink: projects/youve_got_mail
+permalink: projects/Youve Got Mail
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-04
 labels:
