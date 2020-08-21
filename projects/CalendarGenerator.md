@@ -14,7 +14,7 @@ labels:
 summary: Group project to create a cross platform calendar event generator.
 ---
 ## Overview
-<img class="ui large right floated rounded image" src="../images/Main.png">
+<img class="ui fluid rounded image" src="../images/Main.png">
 Over the Summer of 2019, while attending my software engineering II course at the University of Hawaii at Manoa, my partner and I were given a task to create a calendar event generator that could be read and implemented on multiple platforms.  This project allowed us to collaborate on the type of language to use, as well as how to implement the program bounded only by the compliance of RFC 5545 formatting.
  
 ## Objective
