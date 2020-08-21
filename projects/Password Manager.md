@@ -21,7 +21,7 @@ During the course of my Summer Session I at the University of Hawaii at Manoa, I
 The task had its challenges considering that neither one of us had experience in writing “secure” code.  We all felt comfortable with writing in JavaScript so we decided to utilize that language with the IntelliJ IDE and Github for our project documentation and tracking. During our initial attack surface analysis, we found that our main weak points would be the input fields for logging in.  We incorporated input limits to prevent buffer overflows, character limits to prevent injections, incorporated JWTokens to ensure user authentication, and as a vulnerability safeguard, we created a 10-minute inactive logout.  Since we were using MongDB for our database, we ensured password security with a hash and salt encryption.<img class="ui large left rounded image" src="../images/PMan2.JPG">
 ## Experience
  
- [<img class="ui fluid rounded image" src="../images/PMan3.JPG">]
+ <img class="ui fluid rounded image" src="../images/PMan3.JPG">
 
 <div class="ui divider"></div>
 
