@@ -21,6 +21,7 @@ The aircraft that I work on is a C-17 Globemaster, and during the summer of 2011
 <br/>
 <br/>
   <img class="ui fluid rounded image" src="../images/damage 1.jpg">
+<br/>
   <img class="ui fluid rounded image" src="../images/damage2.jpg">
 <br/>
 <br/>
