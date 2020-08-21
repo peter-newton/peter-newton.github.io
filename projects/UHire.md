@@ -13,7 +13,7 @@ labels:
   - Meteor
 summary: Collaboration of 5 developers in creating a web application that provides a service to businesses and students.
 ---
-  <img class="ui fluid rounded image"src="../images/LandingPage.PNG">
+<img class="ui fluid rounded image" src="../images/LandingPage.PNG">
 ## Overview
 During the spring semester of 2019 at the University of Hawaii at Manoa, I collaborated with 4 other student developers to create a web application called UHire, which utilizes the JavaScript web framework, Meteor.  With this application being written using Node.js, we applied IntlliJ as our editor, MongoDB to store our database and ESlint as our quality control.  To help manage our project, we appropriated Github, which is an excellent tool for source code management.  The project took about a month to put together and the majority of our communication took place on Slack which is a public messaging application.
 <img class="ui fluid rounded image" src="../images/StudentHome.png">
