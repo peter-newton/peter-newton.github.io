@@ -23,6 +23,4 @@ The task had its challenges considering that neither one of us had experience in
  
  <img class="ui fluid rounded image" src="../images/PMan3.JPG">
 
-<div class="ui divider"></div>
-
 The experience was enlightening!  I never knew how susceptible programs are to a variety of attacks.  The information garnered from this class will be part of my repertoire of techniques for future coding projects.  Our web application was a success.  We were able to complete the program with added security measures.  The password generator is customizable to length.  Once the information is added to the database, it is displayed on a list field.  The passwords are hidden from this field initially, until you select an account.  As an added precaution, you are prompted to input the master password to reveal the selected password.  Excellent teamwork, constant communication, and a motivated support system ensured the success of our project.  You can see the Github repository here.
