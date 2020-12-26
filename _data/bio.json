@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Peter Newton",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://peter-newton.github.io/images/PNewton.jpg",
     "email": "pnewton@hawaii.edu",
     "phone": "808-729-1899",
     "website": "https://peter-newton.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
+    "summary": "I have a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96789",
@@ -34,12 +34,17 @@
       ]
     },
     {
-      "name": "App Development",
+      "name": "Application Development",
       "keywords": [
       ]
     },
     {
       "name": "Computer Gaming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Dat Visualization",
       "keywords": [
       ]
     }
@@ -57,8 +62,9 @@
         "NASM",
         "MongoDB",
         "SQL",
-        "Android Studio",
         "React",
+        "IntelliJ Idea",
+        "Android Studio",
         "Plotly.JS",
         "Chart.JS",
         "SemanticUI",
@@ -72,20 +78,11 @@
         "MacOS",
         "Windows",
         "Ubuntu",
-        "IntelliJ Idea",
         "Git/GitHub"
       ]
     }
   ],
   "education": [
-        {
-      "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Liberal Arts",
-      "studyType": "A.A.",
-      "startDate": "2013-09-01",
-      "endDate": "2016-05-05",
-      "gpa": "3.8",
-        },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
@@ -93,7 +90,15 @@
       "startDate": "2016-09-01",
       "endDate": "2020-12-23",
       "gpa": "3.92",
-    }
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2013-09-01",
+      "endDate": "2016-05-05",
+      "gpa": "3.8",
+        }
   ],
   "work": [
     {
