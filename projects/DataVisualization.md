@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/VizIcon2.JPG
+image: images/VizIcon3.JPG
 title: Data Visualization
 permalink: projects/DataVisualization
 # All dates must be YYYY-MM-DD format!
