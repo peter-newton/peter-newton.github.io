@@ -16,7 +16,7 @@ summary: A web application project that analyzes and visualizes extracted data f
 ---
 <img class="ui fluid rounded image" src="../images/VizTitle.JPG">
 ## Overview
-During the fall semester of 2020 at the University of Hawaii at Manoa, I collaborated with 2 other student developers to create a web application that analyzes and visualizes the pavement data extracted from the Department of Transportation's Long Term Pavement Program (LTPP) database.  This web application utilizes the JavaScript web framework React.JS, along with visualization aids from Plotly.JS and Chart.JS.  As a management tool, our team used Github to coordinate updates and bug control.  The project took about a month and a half to process the information, analyze it, normalize the data, and display the findings. Our preferance for communication took place on Zoom and Google meet which is a public messaging application.
+During the fall semester of 2020 at the University of Hawaii at Manoa, I collaborated with 2 other student developers to create a web application that analyzes and visualizes the pavement data extracted from the Department of Transportation's Long Term Pavement Program (LTPP) database.  This web application utilizes the JavaScript web framework React.JS, along with visualization aids from Plotly.JS and Chart.JS.  As a management tool, our team used Github to coordinate updates and bug control.  The project took about a month and a half to process the information, analyze it, normalize the data, and display the findings. Our preferance for communication took place on Zoom and Google Meet, which are public messaging applications.
 <br/>
 <br/>
 <img class="ui fluid rounded image" src="../images/Viz2.png">
